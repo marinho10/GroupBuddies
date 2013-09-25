@@ -1,5 +1,8 @@
 #Correr localmente
-Para correr a página localmente basta guardar o código localmente com todos os ficheiros.
+Para correr a página localmente basta:
+Guardar o zip do reposotorio "Download repository as a Zip file". 
+Extrair o conteúdo do zip para uma pasta.
+Abrir o index.html com um browser.
 A organização da pasta deverá ser a seguinte:
 * PaginaFolder
 	* css
